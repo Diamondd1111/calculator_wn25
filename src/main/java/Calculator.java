@@ -1,5 +1,3 @@
-package com.github.Diamond1111.calculator_wn25;
-
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
@@ -16,4 +14,3 @@ public class Calculator {
         return a / b;
     }
 }
-
